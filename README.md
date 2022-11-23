@@ -37,6 +37,12 @@ Nota: Abaixo segue a lista dos navegadores que suportam o :()has
 src="https://github.com/Ciro-TI-System/ThemeSwitcher-CSS/blob/main/assets/Navegadores%20com%20suporte%20ao%20()%20has%20CSS.jpg"
 alt="Imagem dos navegadores e versões suportadas"/>
 
+Imagem da aplicação
+
+<img
+src="https://github.com/Ciro-TI-System/ThemeSwitcher-CSS/blob/main/assets/ThemeSwitcher.jpg"
+alt="Imagem da aplicação"/>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
